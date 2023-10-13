@@ -1,0 +1,13 @@
+*{
+ padding: 0;
+ margin: 0;
+}
+.divs{
+ background: rgb(59,42,30);
+background: linear-gradient(90deg, rgba(59,42,30,0.9220063025210083) 32%, rgba(52,213,73,0.6306897759103641) 49%, rgba(54,30,59,0.9164040616246498) 65%);
+height: 100vh;
+}
+
+img{
+ width: 20px;
+}
